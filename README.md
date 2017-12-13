@@ -188,13 +188,11 @@ The user authenticated as part of Basic auth for the request.
 
 ##### :req[header]
 
-The given `header` of the request. If the header is not present, the
-value will be displayed as `"-"` in the log.
+The given `header` of the request.
 
 ##### :res[header]
 
-The given `header` of the response. If the header is not present, the
-value will be displayed as `"-"` in the log.
+The given `header` of the response.
 
 ##### :response-time[digits]
 
