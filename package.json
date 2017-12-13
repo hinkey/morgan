@@ -1,6 +1,6 @@
 {
   "name": "hinkey-morgan",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "morgan",
   "main": "index.js",
   "scripts": {
