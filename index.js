@@ -272,7 +272,7 @@ morgan.token('date', function getDateToken(req, res, format) {
             return date.toISOString()
         case 'web':
             return date.toUTCString()
-        case 'hinkey':
+        case 'cnDate':
             return date.Format("yyyy-MM-dd hh:mm:ss")
     }
 })
