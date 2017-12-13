@@ -10,6 +10,13 @@
     "type": "git",
     "url": "git+https://github.com/hinkey/morgan.git"
   },
+  "dependencies": {
+    "basic-auth": "~2.0.0",
+    "debug": "2.6.9",
+    "depd": "~1.1.1",
+    "on-finished": "~2.3.0",
+    "on-headers": "~1.0.1"
+  },
   "keywords": [
     "morgan"
   ],
